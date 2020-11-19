@@ -5,7 +5,8 @@
   "author": "Max Schmitt <max@schmitt.mx>",
   "license": "MIT",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "ts-coverage": "typescript-coverage-report"
   },
   "devDependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.0.20",
